@@ -1,0 +1,11 @@
+build/
+*.user
+*.o
+moc_*
+*.autosave
+.vscode/
+.idea/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
