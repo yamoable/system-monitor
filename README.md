@@ -53,6 +53,11 @@ Or directly:
 ./build/system-monitor
 ```
 
+See more:
+```
+./build.sh help
+```
+
 ## Project Structure
 
 ```
@@ -88,6 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+yamoable - yamoable@example.com
 
-Project Link: [https://github.com/your-username/system-monitor](https://github.com/your-username/system-monitor)
+Project Link: [https://github.com/yamoable/system-monitor](https://github.com/yamoable/system-monitor)
