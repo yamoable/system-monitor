@@ -93,6 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-yamoable - yamoable@example.com
+yamoable - yamoable@gmail.com
 
 Project Link: [https://github.com/yamoable/system-monitor](https://github.com/yamoable/system-monitor)
